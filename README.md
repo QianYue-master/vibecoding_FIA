@@ -23,5 +23,6 @@ GitHub 仓库 Settings → Pages → Deploy from a branch → `main` → `/(root
 
 浏览器／网络需支持 WebGL 并能访问 jsDelivr；。素材均由ai生成，Three.js 版本为 0.170.0。
 
+## Creators
 
-
+Chen, Lin, Liu, Weng and Yi. (The rank is in no particular order. )
